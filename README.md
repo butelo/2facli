@@ -79,6 +79,10 @@ python 2fa.py get google
 python 2fa.py delete "MyAccount"
 ```
 
+### License
+
+MIT
+
 ## Storage
 
 Secrets are stored locally in `~/.2fa_secrets.json`.
